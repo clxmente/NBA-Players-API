@@ -1,2 +1,2 @@
-class PlayerDoesNotExist(Exception):
+class DoesNotExist(Exception):
     pass
