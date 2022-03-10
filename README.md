@@ -25,7 +25,7 @@ Now the API can be accessed at `http://127.0.0.1:8000`, however there is no defa
 | Endpoint |
 |----------|
 | /nba/player/{player_name} |
-| /nba/player/{team_abbreviation} |
+| /nba/team/{team_abbreviation} |
 ## /nba/player/{player_name}
 You can retrieve information about an nba player using the `/nba/player/{player_name}` path. JSON response includes player name, position, number, and team.
 
